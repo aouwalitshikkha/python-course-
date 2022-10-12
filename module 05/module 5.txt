@@ -1,0 +1,38 @@
+আজকের মডিউলের প্রথম চারটা হচ্ছে আগের হোয়াইল লুপ নিয়েই । হোয়াইল লুপের কন্সেপ্ট গুলাকে আরো একটু ক্লিয়ার করবে এই ভিডিও গুলা । এরপর গুরুত্বপুর্ন একটা বিষয় হচ্ছে লিস্ট । একই সাথে একাধিক ডাটা স্টোর করার পদ্ধতি হচ্ছে লিস্ট । লিস্টে আমরা এলিমেন্ট সংযোজন বা রিমুভ করা নিয়ে দেখব এই মডিউলে ।  
+
+
+05 01 Recap While Loop Recap
+https://youtu.be/fHdi7X1DuwY
+
+05 02 End Argument of Print Function
+https://youtu.be/VWOGZ0E-Iio
+
+05 03 String Manipulation Example
+https://youtu.be/fuW9pUqWLK8
+
+05 04 Multiple Variable Changing in While Loop
+https://youtu.be/utUiBVeYEVQ
+
+05 05 Intro to Python List
+https://youtu.be/gAy4WS8_1IA
+
+05 06 Accessing List Elements
+https://youtu.be/F7joL5gTYIw
+
+05 07 Accessing List Index Range
+https://youtu.be/bJwoIaAoIqE
+
+05 08 Acceessing list Element and Problem Solving
+https://youtu.be/i9C5B8qOkBA
+
+05 09 List Appending
+https://youtu.be/gVYCvbM8VOw
+
+05 - 9.5 List Item Remove
+https://youtu.be/zJFqC8mPiYc
+
+05 10 List Copy Sort and Extending or joining
+https://youtu.be/DzEhZXL1OzU
+
+05 11 Module 3 Recap
+https://youtu.be/BSknXO4Q0HU
